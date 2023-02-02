@@ -1684,7 +1684,7 @@ img {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 650px;
+    height: 410px;
     position: relative
 }
 
@@ -1703,7 +1703,7 @@ img {
 }
 
 .inner-banner .inner-title {
-    padding-top: 250px;
+    padding-top: 100px;
     padding-bottom: 150px;
     position: relative
 }
